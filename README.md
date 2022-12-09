@@ -23,7 +23,7 @@ The blank space is a button. If you want to fill in the number, press the button
 Step.05  If you complete the answer, press the Close Window button of Puzzle Game. The selected item will pop up.
 <img src="./images/05.png" width="80%">
 
-## Features##
+## Features
 - Choose of Dificulity
 - Game Description (which can be viewed by clicking the button)
 - After completing the answer, the player can decide whether they want to continue modifying the answer, marking it, or reselecting the difficulty.
