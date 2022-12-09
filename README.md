@@ -2,7 +2,7 @@
 Java 數獨小遊戲
 
 ## Abstract  
-This work aims to develop an **Android App** with accounting and expenditure management functions, combined with the caulator project I established before. This app cam manually calculate income and expenditure, and the amount of money also can be added at any time in the accounting process.
+This work aims to develop an **Java AWT window** and create a Sudoku Game, with the functions of choosing difficulity, modifying answer, solution auto-generation, etc.
 
 ## Instruction  
 Step.01  Executing the program.
@@ -22,3 +22,10 @@ The blank space is a button. If you want to fill in the number, press the button
 
 Step.05  If you complete the answer, press the Close Window button of Puzzle Game. The selected item will pop up.
 <img src="./images/05.png" width="80%">
+
+## Features##
+- Choose of Dificulity
+- Game Description (which can be viewed by clicking the button)
+- After completing the answer, the player can decide whether they want to continue modifying the answer, marking it, or reselecting the difficulty.
+- DFS generates standard solutions to Sudoku
+- Leaving the game at any time during use
